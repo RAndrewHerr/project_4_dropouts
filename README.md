@@ -12,7 +12,7 @@ This project aims to analyze dropout and graduation rates of students in higher 
 2. Which degree/track has the highest drop out rate?
 
 ### Dataset
-
+https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention
 The main dataset used for this project provides a comprehensive view of students enrolled in various undergraduate degrees offered at a higher education institution. It includes information such as marital status, application mode, course chosen, attendance, previous qualifications, parental qualifications and occupations, special needs, and more. Additionally, it includes data on curricular units, grades, and economic factors like unemployment rate, inflation rate, and GDP from the region.
 
 ## Resources
