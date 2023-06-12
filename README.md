@@ -24,7 +24,4 @@ The project incorporates an additional data set that focuses on student achievem
 
 The inclusion of this secondary data set presents an opportunity to expand the analysis and predictions beyond higher education and explore the factors that influence student performance in secondary education. By examining the relationship between student grades and various attributes, such as demographic and social factors, the project can gain insights into the determinants of academic success at the secondary level.
 
-Incorporating this secondary data set enhances the project's scope by including a different educational level and exploring factors that contribute to student achievement. The findings from this analysis can provide valuable insights into the factors affecting student success across different stages of education, informing interventions and strategies to support students' academic journey.
-
-
 
